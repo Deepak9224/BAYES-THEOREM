@@ -26,11 +26,10 @@ Bayes = **Prior × Likelihood / Evidence**
 
 ---
 
-## 💼 Business & Finance Applications
 
-| Domain | Use Case | Meaning of Posterior |
-|---------|-----------|----------------------|
-| Credit Risk | P(Default \| Miss EMI) | Updated borrower risk |
-| Fraud Detection | P(Fraud \| Alert) | True fraud rate after flag |
-| Marketing | P(Convert \| Click) | Conversion probability |
-| Medical Testing | P(Disease \| Positive) | Diagnostic accuracy 
+|  #  | Project                   | Concept Covered                       | Outcome                       |
+| :-: | ------------------------- | ------------------------------------- | ----------------------------- |
+|  1  | **Credit Risk Bayes**     | Complement + Law of Total Probability | Posterior default risk ≈ 23 % |
+|  2  | **Fraud Detection Alert** | Base Rate Fallacy + Conditional       | Posterior fraud prob ≈ 18 %   |
+|  3  | **Marketing A/B Bayes**   | Bayesian A/B Testing                  | P(B better than A) ≈ 0.96     |
+
