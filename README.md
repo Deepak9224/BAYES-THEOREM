@@ -7,7 +7,7 @@
 > **Bayes’ Theorem** lets us *revise a prior belief* once new evidence appears.  
 > It flips a conditional probability from P(B | A) to P(A | B).
 
-P(A∣B)=P(B∣A)P(A)/P(B)
+                   P(A∣B)=P(B∣A)*P(A)/P(B)
 
 	​
 
